@@ -1,4 +1,4 @@
-# micro-jsonp
+# meta-to-object
 A tiny library that scrapes `document.head` for `<meta>` tags with `content` attributes. Useful for gathering social data.
 
 ## Usage
